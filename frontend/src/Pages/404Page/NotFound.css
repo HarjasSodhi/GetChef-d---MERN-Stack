@@ -1,0 +1,15 @@
+.Container404 {
+  background: rgba(247, 241, 227, 0.8) !important;
+}
+
+.gradient {
+  background: -webkit-linear-gradient(
+    0deg,
+    rgb(143, 17, 155),
+    rgb(250, 66, 66),
+    rgb(31, 35, 236)
+  ) !important;
+  background-clip: content-box;
+  -webkit-background-clip: text !important;
+  -webkit-text-fill-color: transparent !important;
+}

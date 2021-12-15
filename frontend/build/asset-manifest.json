@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a9093afb.chunk.css",
+    "main.js": "/static/js/main.a785ec1c.chunk.js",
+    "main.js.map": "/static/js/main.a785ec1c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ff5b8ea4.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ff5b8ea4.js.map",
+    "static/js/2.035b8dfe.chunk.js": "/static/js/2.035b8dfe.chunk.js",
+    "static/js/2.035b8dfe.chunk.js.map": "/static/js/2.035b8dfe.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.a9093afb.chunk.css.map": "/static/css/main.a9093afb.chunk.css.map",
+    "static/js/2.035b8dfe.chunk.js.LICENSE.txt": "/static/js/2.035b8dfe.chunk.js.LICENSE.txt",
+    "static/media/Logo.9341515d.png": "/static/media/Logo.9341515d.png",
+    "static/media/appPhoto.4c4f73b1.png": "/static/media/appPhoto.4c4f73b1.png",
+    "static/media/customer.a250e120.png": "/static/media/customer.a250e120.png",
+    "static/media/delivery.be1e2de3.jpg": "/static/media/delivery.be1e2de3.jpg",
+    "static/media/egg.9178bb7d.png": "/static/media/egg.9178bb7d.png",
+    "static/media/App.css": "/static/media/mainpic.9ab30c70.jpg",
+    "static/media/reviewsImg.65665409.png": "/static/media/reviewsImg.65665409.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ff5b8ea4.js",
+    "static/js/2.035b8dfe.chunk.js",
+    "static/css/main.a9093afb.chunk.css",
+    "static/js/main.a785ec1c.chunk.js"
+  ]
+}

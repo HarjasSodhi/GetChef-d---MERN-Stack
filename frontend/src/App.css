@@ -1,0 +1,23 @@
+body {
+  height: 100vh;
+  width: 100vw;
+  background-image: url("./mainpic.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  overflow-x: hidden;
+}
+
+::-webkit-scrollbar {
+  width: 7px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #888;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: rgb(128, 24, 24);
+}

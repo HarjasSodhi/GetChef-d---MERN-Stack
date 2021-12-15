@@ -1,0 +1,8 @@
+.footer {
+  background: rgba(0, 0, 0, 0.6)!important;
+}
+
+.fa-linkedin,
+.fa-github {
+  font-size: 2rem;
+}
